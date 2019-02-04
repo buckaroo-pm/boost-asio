@@ -1,0 +1,61 @@
+targets = [ "//:asio" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-array"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-bind"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-date_time"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-function"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-lambda"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-lexical_cast"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-regex"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-serialization"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-smart_ptr"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-system"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-thread"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-tuple"
+version = "1.41.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "1.41.0"
