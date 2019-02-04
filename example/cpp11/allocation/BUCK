@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'allocation',
+  srcs = [
+    'server.cpp',
+  ],
+  deps = [
+    '//:asio',
+  ],
+)
